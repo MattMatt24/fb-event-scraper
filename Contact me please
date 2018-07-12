@@ -1,0 +1,10 @@
+# Hey just came across this script. it's the best thing i've come across and half solves a problem i have.
+
+# Is there any way the script could just run through a set list of Facebook pages and grab the events, 
+rather than keep scraping event hosts and going in an endless cycle?
+
+# E.G https://www.facebook.com/rongevents/, https://www.facebook.com/EquinoxTrance/,https://www.facebook.com/puretrance/ .....
+# and only scrape the events that these set hosts have?
+
+regards
+matt
